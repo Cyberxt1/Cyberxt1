@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cyberxt1
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Backend development with Python Django
-- 💞️ I’m looking to collaborate on Penetration Testing
-- 📫 How to reach me cryptistx@gmail.com
+- 👋 Hi, I’m @Cyberxt1... Call me King
+- 👀 I’m interested in Ethical Hacking and Python
+- 🌱 I’m currently studying computer science 
+- 💞️ I’m looking to collaborate on anything cyber security
+- 📫 How to reach me gmaicx67@gmail.com@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In Python, if you get bitten you don't get a pesticide, you'll need a de-bugger!
 <!---
