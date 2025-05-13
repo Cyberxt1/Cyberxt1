@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking and Python
 - 🌱 I’m currently studying computer science 
 - 💞️ I’m looking to collaborate on anything cyber security
-- 📫 How to reach me gmaicx67@gmail.com@
+- 📫 How to reach me gmaicx67@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In Python, if you get bitten you don't get a pesticide, you'll need a doctor!
 <!---
